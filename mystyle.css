@@ -7,3 +7,13 @@ background: linear-gradient(135deg, #CE3142 0%, #966AA4 50%, #C59A75 100%);
 p{
     font-family: 'Courier New', Courier;
 }
+dd{
+    font-family: 'Courier New', Courier;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+dt:hover{
+    background-color: bisque;
+}
