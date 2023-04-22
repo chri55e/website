@@ -1,0 +1,6 @@
+body {
+    background: #CE3142;
+background: -moz-linear-gradient(-45deg, #CE3142 0%, #966AA4 50%, #C59A75 100%);
+background: -webkit-linear-gradient(-45deg, #CE3142 0%, #966AA4 50%, #C59A75 100%);
+background: linear-gradient(135deg, #CE3142 0%, #966AA4 50%, #C59A75 100%);
+}
