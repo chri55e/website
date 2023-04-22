@@ -10,10 +10,10 @@ p{
 dd{
     font-family: 'Courier New', Courier;
 }
-image{
+img{
     width: 250px;
     height: 250px;
 }
-image:hover{
+img:hover{
     background-color: rgb(143, 143, 143);
 }
