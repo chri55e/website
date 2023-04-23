@@ -10,10 +10,10 @@ p{
 dd{
     font-family: 'Courier New', Courier;
 }
-https://www.pine64.org/wp-content/uploads/2019/04/github-logo.jpg{
+img src="https://www.pine64.org/wp-content/uploads/2019/04/github-logo.jpg" alt="Github link"{
     width: 250px;
     height: 250px;
 }
-https://www.pine64.org/wp-content/uploads/2019/04/github-logo.jpg:hover{
+img src="https://www.pine64.org/wp-content/uploads/2019/04/github-logo.jpg" alt="Github link"{
     background-color: rgb(143, 143, 143);
 }
